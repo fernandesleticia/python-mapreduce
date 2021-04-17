@@ -1,2 +1,7 @@
 # python-mapreduce
-A simple mapreduce example using python
+A simple mapreducer example using python
+
+### dependencies
+* python3
+* mrjob
+  > pip3 install mrjob
